@@ -78,6 +78,7 @@ def get_books():
 
 
 
+
 def get_html_text():
     url = 'https://www.labirint.ru/genres/2308/'
     header = {
